@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika", "Praktika\Praktika.csproj", "{59D78E7B-25C7-46E6-B84F-2A02E2112EB8}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod1", "WinAsynchMethod1\WinAsynchMethod1.csproj", "{B5D87E21-F901-4BE8-A80E-CF78BE826BFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod2", "WinAsynchMethod2\WinAsynchMethod2.csproj", "{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_3.3", "WinAsynchMethod3\zadanie_3.3.csproj", "{74EE385F-4869-4219-8D6A-22A4409C0826}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EE385F-4869-4219-8D6A-22A4409C0826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EE385F-4869-4219-8D6A-22A4409C0826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EE385F-4869-4219-8D6A-22A4409C0826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EE385F-4869-4219-8D6A-22A4409C0826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

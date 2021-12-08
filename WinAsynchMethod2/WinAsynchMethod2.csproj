@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2CE7190-078E-4C9F-B125-4AEB4B1B2AB9}</ProjectGuid>
+    <ProjectGuid>{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WinBackgroundWorker</RootNamespace>
-    <AssemblyName>WinBackgroundWorker</AssemblyName>
+    <RootNamespace>WinAsynchMethod</RootNamespace>
+    <AssemblyName>WinAsynchMethod</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

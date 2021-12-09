@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktika", "Praktika\Praktika.csproj", "{59D78E7B-25C7-46E6-B84F-2A02E2112EB8}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAsynchMethod2", "WinAsynchMethod2\WinAsynchMethod2.csproj", "{2968AAF8-4742-4279-82D6-9EDE78EA4C0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie_3.3", "WinAsynchMethod3\zadanie_3.3.csproj", "{74EE385F-4869-4219-8D6A-22A4409C0826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD", "WinBD\WinBD.csproj", "{1764C85C-0FBB-4D5B-A4DE-97F918FE48EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{74EE385F-4869-4219-8D6A-22A4409C0826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74EE385F-4869-4219-8D6A-22A4409C0826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74EE385F-4869-4219-8D6A-22A4409C0826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1764C85C-0FBB-4D5B-A4DE-97F918FE48EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1764C85C-0FBB-4D5B-A4DE-97F918FE48EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1764C85C-0FBB-4D5B-A4DE-97F918FE48EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1764C85C-0FBB-4D5B-A4DE-97F918FE48EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

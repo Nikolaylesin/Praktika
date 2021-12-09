@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBD3", "WinBD Задан�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDataBinding", "WinDataBinding\WinDataBinding\WinDataBinding.csproj", "{D8F9C585-1732-4CE7-9FD5-C041C4D11433}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDataSourcesWizard", "WinDataSourcesWizard\WinDataSourcesWizard\WinDataSourcesWizard.csproj", "{3093980D-A2A7-4CA5-A82B-CFA9457E185D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D8F9C585-1732-4CE7-9FD5-C041C4D11433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F9C585-1732-4CE7-9FD5-C041C4D11433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F9C585-1732-4CE7-9FD5-C041C4D11433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3093980D-A2A7-4CA5-A82B-CFA9457E185D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3093980D-A2A7-4CA5-A82B-CFA9457E185D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3093980D-A2A7-4CA5-A82B-CFA9457E185D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3093980D-A2A7-4CA5-A82B-CFA9457E185D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
